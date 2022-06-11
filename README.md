@@ -18,6 +18,15 @@ deno run --allow-env --allow-net --allow-read --allow-write  index.ts
 ```
 
 
+
+##building excutable for windows
+open terminal and run following code:
+```
+deno compile --allow-env --allow-net --allow-read --allow-write  index.ts
+```
+
+
+
 ##developer
 install denon for auto reload:
 ```
