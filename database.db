@@ -1,0 +1,5 @@
+{"type":"chuyenbay","toAirportCode":"NHA","fromAirportCode":"VKG","timeStart":"10:47:11 11/06/2022","thoiGianBay":2,"soGheTrong":40,"flightCode":"878180","_id":"6df8fcb0-e937-11ec-a61b-d509e3a0b236"}
+{"type":"chuyenbay","toAirportCode":"PXU","fromAirportCode":"HAN","timeStart":"10:34:44 11/06/2022","thoiGianBay":2,"soGheTrong":160,"flightCode":"330750","_id":"6fb79ca0-e937-11ec-a61b-d509e3a0b236"}
+{"type":"chuyenbay","toAirportCode":"PXU","fromAirportCode":"HAN","timeStart":"10:35:02 11/06/2022","thoiGianBay":2,"soGheTrong":160,"flightCode":"372534","_id":"7c46f1a0-e937-11ec-a61b-d509e3a0b236"}
+{"ticketCode":"VE226174","price":"845000","fullName":"Mr. Franklin Strosin","phone":"0328329989","cmnd":"869589656305","flightCode":"878180","type":"ve","_id":"6ec97270-e93f-11ec-92cb-752f214a214b"}
+{"ticketCode":"VE696608","price":"845000","fullName":"Jerry O'Conner","phone":"0328870692","cmnd":"296372623563","flightCode":"330750","type":"ve","_id":"fd4287d0-e93f-11ec-b0d4-5d9607c784d2"}

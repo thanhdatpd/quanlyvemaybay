@@ -1,0 +1,1 @@
+import { faker } from "https://raw.githubusercontent.com/jackfiszr/deno-faker/master/mod.ts";
